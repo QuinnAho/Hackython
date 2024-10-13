@@ -49,5 +49,8 @@
 		"XboxOne",
 		"XSX",
 		"HoloLens"
-	]
+	],
+	"BuildConfiguration": {
+		"WarningsAsErrors": false
+	}
 }
