@@ -34,6 +34,15 @@
 		{
 			"Name": "Water",
 			"Enabled": true
+		},
+		{
+			"Name": "OculusXR",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/8313d8d7e7cf4e03a33e79eb757bccba",
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Android"
+			]
 		}
 	],
 	"TargetPlatforms": [
@@ -49,8 +58,5 @@
 		"XboxOne",
 		"XSX",
 		"HoloLens"
-	],
-	"BuildConfiguration": {
-		"WarningsAsErrors": false
-	}
+	]
 }
